@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "497190154492",
+    "firebase_url": "https://swello-w.firebaseio.com",
+    "project_id": "swello-w",
+    "storage_bucket": "swello-w.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497190154492:android:270f350334791e80e76779",
+        "android_client_info": {
+          "package_name": "com.example.swella"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497190154492-c0f25n4f3cbp3aaevlmupb62cfuunj31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdSXm6cnzD8vA35JoCAnPpZjJdVC7CKw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497190154492-5kt46j1qiiqg833gcaro5fqv4inhet5j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497190154492-7dc766gh0281v4120iuo2ep795sto0ti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.swella"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497190154492:android:e7dedd9fd0804597e76779",
+        "android_client_info": {
+          "package_name": "com.swello.escortuiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497190154492-tss1f8bb9j3sa4nuqmurii011cf2efeu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swello.escortuiapp",
+            "certificate_hash": "50144896217f727287847022b9adafeb86ba4dc4"
+          }
+        },
+        {
+          "client_id": "497190154492-c0f25n4f3cbp3aaevlmupb62cfuunj31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdSXm6cnzD8vA35JoCAnPpZjJdVC7CKw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497190154492-5kt46j1qiiqg833gcaro5fqv4inhet5j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497190154492-7dc766gh0281v4120iuo2ep795sto0ti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.swella"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497190154492:android:9aa708204e65c2ede76779",
+        "android_client_info": {
+          "package_name": "com.swello.kids.cardgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497190154492-c0f25n4f3cbp3aaevlmupb62cfuunj31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdSXm6cnzD8vA35JoCAnPpZjJdVC7CKw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497190154492-5kt46j1qiiqg833gcaro5fqv4inhet5j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497190154492-7dc766gh0281v4120iuo2ep795sto0ti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.swella"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
